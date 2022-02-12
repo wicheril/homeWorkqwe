@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="homeWorkMVVM.Views.ProductListPage" Title="Список продуктов">
+    <StackLayout>
+        <Button Text="Добавить" Command="{Binding CreateProductCommand}" />
+        <Button Text="Новая страница" x:Name="HttpPage" Clicked="HttpPage_Clicked"/>
+        <ListView x:Name="booksList" ItemsSource="{Binding Products}"
+              SelectedItem="{Binding SelectedProduct, Mode=TwoWay}" HasUnevenRows="True"
+                  BackgroundColor="Black">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <ViewCell.View>
+                            <StackLayout>
+                                <Label Text="{Binding Name}" FontSize="Medium" />
+                                <Label Text="{Binding Description}" FontSize="Small" />
+                                <Label Text="{Binding Price}" FontSize="Small" />
+                            </StackLayout>
+                        </ViewCell.View>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </StackLayout>
+</ContentPage>

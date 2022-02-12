@@ -1,0 +1,17 @@
+D:\Programming\mobile\homeWorkMVVM\homeWorkMVVM\homeWorkMVVM\bin\Debug\netstandard2.0\homeWorkMVVM.deps.json
+D:\Programming\mobile\homeWorkMVVM\homeWorkMVVM\homeWorkMVVM\bin\Debug\netstandard2.0\homeWorkMVVM.dll
+D:\Programming\mobile\homeWorkMVVM\homeWorkMVVM\homeWorkMVVM\bin\Debug\netstandard2.0\ref\homeWorkMVVM.dll
+D:\Programming\mobile\homeWorkMVVM\homeWorkMVVM\homeWorkMVVM\bin\Debug\netstandard2.0\homeWorkMVVM.pdb
+D:\Programming\mobile\homeWorkMVVM\homeWorkMVVM\homeWorkMVVM\obj\Debug\netstandard2.0\homeWorkMVVM.csproj.AssemblyReference.cache
+D:\Programming\mobile\homeWorkMVVM\homeWorkMVVM\homeWorkMVVM\obj\Debug\netstandard2.0\homeWorkMVVM.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\mobile\homeWorkMVVM\homeWorkMVVM\homeWorkMVVM\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Programming\mobile\homeWorkMVVM\homeWorkMVVM\homeWorkMVVM\obj\Debug\netstandard2.0\homeWorkMVVM.AssemblyInfoInputs.cache
+D:\Programming\mobile\homeWorkMVVM\homeWorkMVVM\homeWorkMVVM\obj\Debug\netstandard2.0\homeWorkMVVM.AssemblyInfo.cs
+D:\Programming\mobile\homeWorkMVVM\homeWorkMVVM\homeWorkMVVM\obj\Debug\netstandard2.0\homeWorkMVVM.csproj.CoreCompileInputs.cache
+D:\Programming\mobile\homeWorkMVVM\homeWorkMVVM\homeWorkMVVM\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Programming\mobile\homeWorkMVVM\homeWorkMVVM\homeWorkMVVM\obj\Debug\netstandard2.0\homeWorkMVVM.dll
+D:\Programming\mobile\homeWorkMVVM\homeWorkMVVM\homeWorkMVVM\obj\Debug\netstandard2.0\ref\homeWorkMVVM.dll
+D:\Programming\mobile\homeWorkMVVM\homeWorkMVVM\homeWorkMVVM\obj\Debug\netstandard2.0\homeWorkMVVM.pdb
+D:\Programming\mobile\homeWorkMVVM\homeWorkMVVM\homeWorkMVVM\obj\Debug\netstandard2.0\Views\ProductListPage.xaml.g.cs
+D:\Programming\mobile\homeWorkMVVM\homeWorkMVVM\homeWorkMVVM\obj\Debug\netstandard2.0\Views\ProductPage.xaml.g.cs
+D:\Programming\mobile\homeWorkMVVM\homeWorkMVVM\homeWorkMVVM\obj\Debug\netstandard2.0\Views\HttpPage.xaml.g.cs
